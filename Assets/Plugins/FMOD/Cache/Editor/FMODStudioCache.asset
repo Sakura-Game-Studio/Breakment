@@ -1,0 +1,1537 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9151818093172037166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tema/Song 3
+  m_EditorClassIdentifier: 
+  Path: event:/Tema/Song 3
+  guid: eb0734da20f9ae4f9831a1e4ff1592ea
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 23140
+--- !u!114 &-8863372551429965067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tema/Only Bass Loop
+  m_EditorClassIdentifier: 
+  Path: event:/Tema/Only Bass Loop
+  guid: ad70799516cb1045a37f181595319909
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1715
+--- !u!114 &-8628311826019247905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skills/Nimbus Skill 1 Leave
+  m_EditorClassIdentifier: 
+  Path: event:/Skills/Nimbus Skill 1 Leave
+  guid: 277ce4bce577334f9ddc5d3ef2fe737a
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1625
+--- !u!114 &-8596891960072259657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Bolinhas/(Druida1) - (Golem2) - (Nimbus3)
+  m_EditorClassIdentifier: 
+  Path: event:/Bolinhas/(Druida1) - (Golem2) - (Nimbus3)
+  guid: f659cf2d82de344b82a6e55d4b9ef8dd
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 1469991709615295375}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &-8335646365916559671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes do Golem/Golem - Tomou Gol
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes do Golem/Golem - Tomou Gol
+  guid: 9f75116247af1746b04eb7153a24ac43
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1231
+--- !u!114 &-8235682427579789423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes do Golem/Golem - Poderzinho
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes do Golem/Golem - Poderzinho
+  guid: e930ec17a012c646b89abfd7cf0fcee1
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1940
+--- !u!114 &-8188606372576579238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/(Druida1) - (Golem2) - (Nimbus3)/SelectSprite
+  m_EditorClassIdentifier: 
+  Name: SelectSprite
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 1
+--- !u!114 &-7982804114508106048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes do Druida/Druida - Vitoria
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes do Druida/Druida - Vitoria
+  guid: 1dcbade16aa2374aa0b92e6ca24bd146
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1817
+--- !u!114 &-7579062663506370400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Master/Contagem/3 - Folhas
+  m_EditorClassIdentifier: 
+  Path: event:/Master/Contagem/3 - Folhas
+  guid: 325a9cb5054bb84eaad22c6a0c3bc2bc
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 961
+--- !u!114 &-7564722761804794364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes do Druida/Druida - Derrota
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes do Druida/Druida - Derrota
+  guid: f673884554b5a144b9ac2d2e3e59e229
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1261
+--- !u!114 &-7448875469815314448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Lessa/Documents/FMOD Studio/BreakmentSound/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637599004601296306
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 2392
+  Exists: 1
+--- !u!114 &-6947077896746658452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Hello
+  m_EditorClassIdentifier: 
+  Path: event:/Hello
+  guid: 7de175244f68594fa3961866f9e9d275
+  Banks:
+  - {fileID: 1076771780592574434}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &-6760460308064197833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes da Nimbus/Nimbus - Vitoria
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes da Nimbus/Nimbus - Vitoria
+  guid: 011882b49cbb3c45a630ec8d483a8188
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1718
+--- !u!114 &-6669241319980253124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes da Nimbus/Nimbus - Derrota
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes da Nimbus/Nimbus - Derrota
+  guid: 278d221346bbbc419a8d5d7b6c2194ad
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1798
+--- !u!114 &-6618254407603811912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skills/Golem Skill 1
+  m_EditorClassIdentifier: 
+  Path: event:/Skills/Golem Skill 1
+  guid: faea8aea3fd8e64d9d6e7d8d588ea84f
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 7400
+--- !u!114 &-6269762706548596590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes da Nimbus/Nimbus - Poderzinho
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes da Nimbus/Nimbus - Poderzinho
+  guid: 7c7f44adc1361b4fb7cff00a9489643a
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 991
+--- !u!114 &-6258641388371470467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Lessa/Documents/FMOD Studio/BreakmentSound/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637599004601256421
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1925120
+  Exists: 1
+--- !u!114 &-6017071854571858986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tema/Intro Kick loop
+  m_EditorClassIdentifier: 
+  Path: event:/Tema/Intro Kick loop
+  guid: d6e4b13b02d6e448951cd39e3d54620e
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1779
+--- !u!114 &-5562269041620546297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tema/Song 3
+  m_EditorClassIdentifier: 
+  Path: event:/Tema/Song 3
+  guid: eb0734da20f9ae4f9831a1e4ff1592ea
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 23140
+--- !u!114 &-4759668487907454915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes do Golem/Golem - Vitoria
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes do Golem/Golem - Vitoria
+  guid: 5390720bda027841baa692f7cca267af
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1948
+--- !u!114 &-4189712406058476773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tema/Song 1
+  m_EditorClassIdentifier: 
+  Path: event:/Tema/Song 1
+  guid: 081232755d7bc347bc45788409f9497e
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 16019
+--- !u!114 &-2973927210066200193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes do Druida/Druida - Tomou Gol
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes do Druida/Druida - Tomou Gol
+  guid: ba983c7f8e8a964ab9f3dca8c42244ff
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 685
+--- !u!114 &-2739060605535751932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skills/Druida Skill 1
+  m_EditorClassIdentifier: 
+  Path: event:/Skills/Druida Skill 1
+  guid: 07f9101c2bedaf40940df50c18e0c540
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1448
+--- !u!114 &-2090431886662371281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Master/Intro Sakura
+  m_EditorClassIdentifier: 
+  Path: event:/Master/Intro Sakura
+  guid: 2c23f66a74a49048bbfcede3cfeec3a2
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3160
+--- !u!114 &-2008656366002183785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tema/Song 1
+  m_EditorClassIdentifier: 
+  Path: event:/Tema/Song 1
+  guid: 081232755d7bc347bc45788409f9497e
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 16019
+--- !u!114 &-1984511928110028563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes do Golem/Golem - Derrota
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes do Golem/Golem - Derrota
+  guid: e2ab07f6e1abcd46b2b6b985d1ab2587
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1239
+--- !u!114 &-1937225847751133436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/(Druida1) - (Golem2) - (Nimbus3)/SelectSprite
+  m_EditorClassIdentifier: 
+  Name: SelectSprite
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 1
+--- !u!114 &-677009068910321181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tema/Intro Kick loop
+  m_EditorClassIdentifier: 
+  Path: event:/Tema/Intro Kick loop
+  guid: d6e4b13b02d6e448951cd39e3d54620e
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1779
+--- !u!114 &-240924781346781759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/(Druida1) - (Golem2) - (Nimbus3)/SelectSprite
+  m_EditorClassIdentifier: 
+  Name: SelectSprite
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -7448875469815314448}
+  - {fileID: -6258641388371470467}
+  EditorEvents:
+  - {fileID: -6760460308064197833}
+  - {fileID: -2739060605535751932}
+  - {fileID: -4189712406058476773}
+  - {fileID: 3870097073795868785}
+  - {fileID: -7982804114508106048}
+  - {fileID: -8628311826019247905}
+  - {fileID: -6669241319980253124}
+  - {fileID: -7579062663506370400}
+  - {fileID: 7555398216184923211}
+  - {fileID: 3923053132725920310}
+  - {fileID: -4759668487907454915}
+  - {fileID: 5619056200831301674}
+  - {fileID: 3930619366837454325}
+  - {fileID: 5523404314915100863}
+  - {fileID: -6269762706548596590}
+  - {fileID: 6385252995793709613}
+  - {fileID: 7769804740055285861}
+  - {fileID: 4444088858339095010}
+  - {fileID: -8335646365916559671}
+  - {fileID: -8863372551429965067}
+  - {fileID: 7870996822035429463}
+  - {fileID: -2973927210066200193}
+  - {fileID: 4112809463284235287}
+  - {fileID: -6017071854571858986}
+  - {fileID: -1984511928110028563}
+  - {fileID: 6404277343819264579}
+  - {fileID: -8235682427579789423}
+  - {fileID: -9151818093172037166}
+  - {fileID: 6975508765962831859}
+  - {fileID: 3899741989377668843}
+  - {fileID: -7564722761804794364}
+  - {fileID: -6618254407603811912}
+  - {fileID: -2090431886662371281}
+  - {fileID: 3545470668232737239}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -6258641388371470467}
+  StringsBanks:
+  - {fileID: -7448875469815314448}
+  stringsBankWriteTime: 637599004601296306
+  cacheVersion: 6
+--- !u!114 &148256683819615734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skills/Nimbus Skill 1
+  m_EditorClassIdentifier: 
+  Path: event:/Skills/Nimbus Skill 1
+  guid: 81beba13fc754c40b05eb60cf7eea575
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 7572
+--- !u!114 &492881221516135657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Lessa/Documents/FMOD Studio/BreakmentSound/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637574857842212356
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1482
+  Exists: 1
+--- !u!114 &888880448968337720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tema/Only Bass Loop
+  m_EditorClassIdentifier: 
+  Path: event:/Tema/Only Bass Loop
+  guid: ad70799516cb1045a37f181595319909
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1715
+--- !u!114 &1076771780592574434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Lessa/Documents/FMOD Studio/Breakment/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637544293373457198
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 7488
+  Exists: 1
+--- !u!114 &1469991709615295375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/(Druida1) - (Golem2) - (Nimbus3)/SelectSprite
+  m_EditorClassIdentifier: 
+  Name: SelectSprite
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 1
+--- !u!114 &2124159731895678195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/(Druida1) - (Golem2) - (Nimbus3)/SelectSprite
+  m_EditorClassIdentifier: 
+  Name: SelectSprite
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 0
+--- !u!114 &2219559645292495291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skills/Golem Skill 1
+  m_EditorClassIdentifier: 
+  Path: event:/Skills/Golem Skill 1
+  guid: faea8aea3fd8e64d9d6e7d8d588ea84f
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 18671
+--- !u!114 &3392822224314059486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skills/Golem Skill 2
+  m_EditorClassIdentifier: 
+  Path: event:/Skills/Golem Skill 2
+  guid: 3b9bd7b49dfaaf4aa53356d59f36261a
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 8103
+--- !u!114 &3545470668232737239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skills/Golem Skill 1 Leave
+  m_EditorClassIdentifier: 
+  Path: event:/Skills/Golem Skill 1 Leave
+  guid: 76d9968315a1d8488023c4424bbebc1c
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1960
+--- !u!114 &3646584299229224634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/(Druida1) - (Golem2) - (Nimbus3)/SelectSprite
+  m_EditorClassIdentifier: 
+  Name: SelectSprite
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 1
+--- !u!114 &3870097073795868785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes da Nimbus/Nimbus - Fez Gol
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes da Nimbus/Nimbus - Fez Gol
+  guid: 0f72b7378ff1cb41ba7b35b717dae15c
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1177
+--- !u!114 &3899741989377668843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Bolinhas/(Druida1) - (Golem2) - (Nimbus3)
+  m_EditorClassIdentifier: 
+  Path: event:/Bolinhas/(Druida1) - (Golem2) - (Nimbus3)
+  guid: f659cf2d82de344b82a6e55d4b9ef8dd
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -8188606372576579238}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
+--- !u!114 &3923053132725920310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Master/Corrente Rompendo
+  m_EditorClassIdentifier: 
+  Path: event:/Master/Corrente Rompendo
+  guid: 4c77ca5a6c571f478785abbfebe4c0c6
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 817
+--- !u!114 &3930619366837454325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Master/Contagem/1 - fogo
+  m_EditorClassIdentifier: 
+  Path: event:/Master/Contagem/1 - fogo
+  guid: 5d16732a5a68f64aa6f30d975bc02c41
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2501
+--- !u!114 &4112809463284235287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes do Golem/Golem - Fez Gol
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes do Golem/Golem - Fez Gol
+  guid: c4f45a00d28dd1459fac7f1d8d366d60
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1990
+--- !u!114 &4149430355275474981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skills/Druida Skill 2 Leave
+  m_EditorClassIdentifier: 
+  Path: event:/Skills/Druida Skill 2 Leave
+  guid: 38bbb9a1c7eebd46817492cbdccbbf94
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 7225
+--- !u!114 &4182291989002069206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skills/Druida Skill 1
+  m_EditorClassIdentifier: 
+  Path: event:/Skills/Druida Skill 1
+  guid: 07f9101c2bedaf40940df50c18e0c540
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5783
+--- !u!114 &4311102265662564585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Lessa/Documents/FMOD Studio/BreakmentSound/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637574857842182439
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1442048
+  Exists: 1
+--- !u!114 &4444088858339095010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Master/Contagem/2 - Raio
+  m_EditorClassIdentifier: 
+  Path: event:/Master/Contagem/2 - Raio
+  guid: 9dfb271a1ce49b448acdecd48dacc7c2
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 577
+--- !u!114 &4449007920785025370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skills/Nimbus Skill 2
+  m_EditorClassIdentifier: 
+  Path: event:/Skills/Nimbus Skill 2
+  guid: 4a04f62d33182449bf8bca99f01c043a
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 7135
+--- !u!114 &4615111815913460172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tema/Song 2
+  m_EditorClassIdentifier: 
+  Path: event:/Tema/Song 2
+  guid: 3b343c0b2aa0d24e8f4922bf90b9d123
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 30063
+--- !u!114 &5019213636254740489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/(Druida1) - (Golem2) - (Nimbus3)/SelectSprite
+  m_EditorClassIdentifier: 
+  Name: SelectSprite
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 1
+--- !u!114 &5049780482895839053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/Lessa/Documents/FMOD Studio/Breakment/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637544293373486855
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 742
+  Exists: 1
+--- !u!114 &5087523750787132361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tema/Song 4
+  m_EditorClassIdentifier: 
+  Path: event:/Tema/Song 4
+  guid: 554b88799564c846a5074fca0754d5ef
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 30248
+--- !u!114 &5523404314915100863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes da Nimbus/Nimbus - Tomou Gol
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes da Nimbus/Nimbus - Tomou Gol
+  guid: 67e76c77544b714eacf3f0f51cf27bb9
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 817
+--- !u!114 &5619056200831301674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tema/Song 4
+  m_EditorClassIdentifier: 
+  Path: event:/Tema/Song 4
+  guid: 554b88799564c846a5074fca0754d5ef
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 30248
+--- !u!114 &5742942329198639471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/(Druida1) - (Golem2) - (Nimbus3)/SelectSprite
+  m_EditorClassIdentifier: 
+  Name: SelectSprite
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 1
+--- !u!114 &5839481204831278424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/(Druida1) - (Golem2) - (Nimbus3)/SelectSprite
+  m_EditorClassIdentifier: 
+  Name: SelectSprite
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 1
+--- !u!114 &5903004852478547702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skills/Druida Skill 2 IN
+  m_EditorClassIdentifier: 
+  Path: event:/Skills/Druida Skill 2 IN
+  guid: 6f2e865111cbef4791cd55688f9a9d35
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 9538
+--- !u!114 &6000923507609806830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skills/Nimbus Skill 1 Leave
+  m_EditorClassIdentifier: 
+  Path: event:/Skills/Nimbus Skill 1 Leave
+  guid: 277ce4bce577334f9ddc5d3ef2fe737a
+  Banks:
+  - {fileID: 4311102265662564585}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 7125
+--- !u!114 &6385252995793709613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skills/Nimbus Skill 1
+  m_EditorClassIdentifier: 
+  Path: event:/Skills/Nimbus Skill 1
+  guid: 81beba13fc754c40b05eb60cf7eea575
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1280
+--- !u!114 &6404277343819264579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes do Druida/Druida - Fez Gol
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes do Druida/Druida - Fez Gol
+  guid: e78e2d0b5b27f44aae8ef64befad52ed
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1268
+--- !u!114 &6975508765962831859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vozes/Vozes do Druida/Druida - Poderzinho
+  m_EditorClassIdentifier: 
+  Path: event:/Vozes/Vozes do Druida/Druida - Poderzinho
+  guid: f33fb6a701671743ae0b65eee8a36e59
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1253
+--- !u!114 &7555398216184923211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tema/Song 2
+  m_EditorClassIdentifier: 
+  Path: event:/Tema/Song 2
+  guid: 3b343c0b2aa0d24e8f4922bf90b9d123
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 30063
+--- !u!114 &7769804740055285861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tema/Song 5
+  m_EditorClassIdentifier: 
+  Path: event:/Tema/Song 5
+  guid: 87331020f304354eb6d6d7cffa6db7f5
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 28579
+--- !u!114 &7870996822035429463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Master/Bloco Quebrando
+  m_EditorClassIdentifier: 
+  Path: event:/Master/Bloco Quebrando
+  guid: b37b6f4342b6e94b9c53717e6f2e97b6
+  Banks:
+  - {fileID: -6258641388371470467}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 500
+--- !u!114 &9041079105510749014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/(Druida1) - (Golem2) - (Nimbus3)/SelectSprite
+  m_EditorClassIdentifier: 
+  Name: SelectSprite
+  Min: 0
+  Max: 3
+  Default: 0
+  ID:
+    data1: 0
+    data2: 0
+  Exists: 0
